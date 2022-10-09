@@ -223,16 +223,12 @@ house.add(doorLight)
 const ghostBodyGeometry = new THREE.SphereGeometry( 0.2, 10, 10);
 const ghostBodyMaterial = new THREE.MeshLambertMaterial( {
     color: 0xffffff,
-    // transparent: true,
-    // opacity: 0.8,
     emissive: 0xffffff,
     emissiveIntensity: 10
 } );
 const ghostTailGeometry = new THREE.ConeGeometry( 0.15, 0.2, 6 );
 const ghostTailMaterial = new THREE.MeshLambertMaterial( {
     color: 0xffffff,
-    // transparent: true,
-    // opacity: 0.8,
     emissive: 0xffffff,
     emissiveIntensity: 10
 } );
