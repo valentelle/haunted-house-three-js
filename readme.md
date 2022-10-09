@@ -1,4 +1,7 @@
 # Three.js Journey
+Make a haunted house in ThreeJS
+
+Project carried out as part of Bruno Simon's [Three.js Journey course](https://threejs-journey.com/).
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
